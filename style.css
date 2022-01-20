@@ -1,3 +1,19 @@
 body {
+h1 {
+  color: blue;
+  text-align: center;
+}
 
+body {
+  background: red;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+img {
+  img-align:center;
+  
 }

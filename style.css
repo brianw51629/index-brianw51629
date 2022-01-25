@@ -1,27 +1,28 @@
-h1 {
-  color: blue;
+h1{
   text-align: center;
+  color:orange;
 }
-
-body {
-  background: red;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
 }
-
+li {
+  display: inline;
+}
+a {
+  color:orange;
+  text-decoration:none;
+}
+ul:hover {
+  background-color:blue;
+}
+table {
+  color:orange;
+}
 h2 {
-  color: blue;
+  color:orange;
   text-align: center;
-}
-
-img {
-  img-align:center;
-  
-}
-img {
-  float: center;
-}
-img {
-  border-radius: 50%;
-}
-img {
-  filter: contrast(2000%);
+  font-size:100%;
 }

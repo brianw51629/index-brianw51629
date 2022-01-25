@@ -1,28 +1,30 @@
-h1{
+h1 {
   text-align: center;
-  color:orange;
+  color: orange;
 }
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 15%;
 }
 li {
   display: inline;
 }
 a {
-  color:orange;
-  text-decoration:none;
+  color: orange;
+  text-decoration: none;
 }
 ul:hover {
-  background-color:blue;
+  background-color: blue;
 }
 table {
-  color:orange;
+  color: orange;
 }
 h2 {
-  color:orange;
+  color: orange;
   text-align: center;
-  font-size:100%;
+  font-size: 100%;
+}
+.bballgif {
+  width: 100%;
 }
